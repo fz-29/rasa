@@ -15,6 +15,7 @@ Added
 
 Changed
 -------
+- ``Agent.load()`` also accepts ``tar.gz`` model file
 
 Removed
 -------
